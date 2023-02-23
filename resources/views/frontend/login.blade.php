@@ -20,14 +20,14 @@
                                     </div>
                                     <div class="col-lg-12">
                                         <fieldset>
-                                            <input name="name" type="text" id="name" placeholder="Email...*"
-                                                required="">
+                                            <input name="email" type="text" id="email" pattern="[^ @]*@[^ @]*"
+                                                placeholder=" Email..." required="">
                                         </fieldset>
                                     </div>
                                     <div class="col-lg-12">
                                         <fieldset>
-                                            <input name="email" type="password" id="email" pattern="[^ @]*@[^ @]*"
-                                                placeholder="Password..." required="">
+                                            <input name="password" type="password" id="password""
+                                                placeholder=" Password..." required="">
                                         </fieldset>
                                     </div>
                                     <div class="col-lg-12">

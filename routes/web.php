@@ -23,3 +23,4 @@ Route::get('/', [tampilanController::class, 'index'])->name('index');
 Route::get('/buku', [tampilanController::class, 'buku'])->name('buku');
 Route::get('/login', [tampilanController::class, 'login'])->name('login');
 Route::get('/buku-tamu', [tampilanController::class, 'tamu'])->name('tamu');
+Route::get('/kartini', [tampilanController::class, 'kartini'])->name('kartini');

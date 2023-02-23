@@ -17,7 +17,7 @@
                         <p><a rel="nofollow" href="https://templatemo.com/page/1" target="_blank"></a><a rel="nofollow"
                                 href="https://www.pexels.com/@pressmaster" target="_blank"></a></p>
                         <div class="main-button-red">
-                            <li><a href="login.html" target="_blank">Join Us Now</a></li>
+                            <li><a href="/login" target="_blank">Join Us Now</a></li>
                         </div>
                     </div>
                 </div>
@@ -234,7 +234,7 @@
                             <h3>Ayo Bergabung Dengan <br>Perpus SMKN 1 Garut</h3>
                             <p>Untuk Pendaftaran Akun Bisa Mendatangi langsung Perpustakaan SMKN 1 Garut</p>
                             <div class="main-button-red">
-                                <li><a href="login.html">Join Us Now</a></li>
+                                <li><a href="/login">Join Us Now</a></li>
                             </div>
                         </div>
                     </div>
@@ -253,7 +253,7 @@
                 <div class="accordions is-first-expanded">
                     <article class="accordion">
                         <div class="accordion-head">
-                            <span>Tentang SMKN ! Garut</span>
+                            <span>Sekilas SMKN 1 Garut</span>
                             <span class="icon">
                                 <i class="icon fa fa-chevron-right"></i>
                             </span>
@@ -721,8 +721,9 @@
                             <span>Jl. Cimanuk No. 309 A Garut</span>
                         </li>
                         <li>
-                            <h6>Website URL</h6>
-                            <span>www.smkn1garut.sch.id</span>
+                            <a href="https://www.smknegeri1garut.sch.id/" class="logo">
+                                <H6>Website URL</H6>
+                                <span>SMKN 1 GARUT </span>
                         </li>
                     </ul>
                 </div>

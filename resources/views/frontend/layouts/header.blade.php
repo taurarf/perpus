@@ -45,7 +45,7 @@ https://templatemo.com/tm-569-edu-meeting
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
               <a href="/"></a>
-              <li><a href="/" class="{{ request()->is('/') ? 'active':'' }}">Home</a></li>
+              <li><a href="/" class="{{ request()->is('/') }}">Home</a></li>
               <li class="has-sub active">
                 <a class="{{ request()->is('buku') ? 'active':'' }}" href="javascript:void(0)">Buku</a>
                 <ul class="sub-menu">

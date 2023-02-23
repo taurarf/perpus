@@ -35,7 +35,7 @@
                                         <div class="price">
                                             <span>RAK:4</span>
                                         </div>
-                                        <a href="kartini.html"><img
+                                        <a href="/kartini"><img
                                                 src="{{asset('edu-meeting/assets/images/buku/kartini.jpg')}}"
                                                 alt=""></a>
                                     </div>

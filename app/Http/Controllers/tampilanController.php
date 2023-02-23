@@ -22,4 +22,8 @@ class tampilanController extends Controller
     {
         return view('frontend.tamu');
     }
+    public function kartini()
+    {
+        return view('frontend.kartini');
+    }
 }
